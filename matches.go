@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func matches() {
 	results := []string{"w", "l", "w", "d", "w", "l", "l", "l", "d", "d", "w", "l", "w", "d"}
 	
 	var a string
