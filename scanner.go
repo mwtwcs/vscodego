@@ -31,3 +31,4 @@ func scanner() {
 	fmt.Println(b)
 	fmt.Println(c)
 }
+stepik
